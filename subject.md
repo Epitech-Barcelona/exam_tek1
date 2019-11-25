@@ -68,7 +68,11 @@ Be careful, if you want to get point on this part, you should give the most info
 
 You are allowed to use only internet to fill the form after than you must show down your wifi (no respect == expulsion).
 
+<<<<<<< HEAD
 url to access to the form :  https://bit.ly/2pRnWNa
+=======
+url to access to the form :  https://bit.ly/2CZXt2N
+>>>>>>> e33ecdd04a7f098df295d824e188968718312754
 
 __________________________________________________________________________________________________________________________________________________________________________________
 
@@ -89,6 +93,7 @@ Take 5 min to check everything is going to be ok before pushing.
 
 ####Exercise 1)
 
+<<<<<<< HEAD
 |my_push_repository|
 |:----|
 |Write a bash script which push the repository   
@@ -99,12 +104,26 @@ Take 5 min to check everything is going to be ok before pushing.
 |NAME       :   my_push_repository
 |PARAMETER  :   
 |RETURN     :
+=======
+|my_clean_repository|
+|:----|
+|Write a bash function which deletes all tilde and point o  and hash files   
+|"~", ".o" "#"
+|FOLDER     :   ex_01
+|BINARY NAME:   my_clean_repository
+|
+|NAME       :   my_clean_repository
+|PARAMETER  :   
+|RETURN     :   
+
+>>>>>>> e33ecdd04a7f098df295d824e188968718312754
 
 
 
 
 ####Exercise 2)
 
+<<<<<<< HEAD
 |my_show_missing_alphanumeric|
 |:----|
 |Write a program when it will find a lowercase letter in the given parameter, will display **"all lowercase letter"** which ain't in the parameter. 
@@ -118,6 +137,26 @@ Take 5 min to check everything is going to be ok before pushing.
 |NAME       :   my_show_missing_alphanumeric
 |PARAMETER  :   string
 |RETURN     :   nothing
+=======
+|my_display_square|
+|:----|
+|Write a program which displays square of uppercase x.
+|first parameter length, second parameter width 
+|The function will finish with a line break
+|----------------------
+|example : 
+|./ex_02 "4" "3"
+|XXXXX
+|X   X
+|XXXXX
+|----------------------
+|FOLDER     :   ex_02
+|BINARY NAME:   ex_02
+|
+|NAME       :   my_display_square
+|PARAMETER  :   
+|RETURN     :   
+>>>>>>> e33ecdd04a7f098df295d824e188968718312754
 
 
 
@@ -125,16 +164,20 @@ Take 5 min to check everything is going to be ok before pushing.
 
 ####Exercise 3)
 
+<<<<<<< HEAD
 |my_malloc_array|
+=======
+|my_power_number|
+>>>>>>> e33ecdd04a7f098df295d824e188968718312754
 |:----|
-|Write a function which returns a array of string.
-|The size of the array is given as parameter
+|Write a function which return the power of a number .
+|
 |FOLDER     :   ex_03
 |BINARY NAME:   
 |
-|NAME       :   my_return_string_tab
-|PARAMETER  :   number
-|RETURN     :   array
+|NAME       :   my_power_number
+|PARAMETER  :   number_base, number_exponent
+|RETURN     :   number
 
 
 
@@ -151,13 +194,17 @@ Take 5 min to check everything is going to be ok before pushing.
 |NAME       :   my_cat_file
 |PARAMETER  :   
 |RETURN     : 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e33ecdd04a7f098df295d824e188968718312754
 
 
 
 
 ####Exercise 5)
 
+<<<<<<< HEAD
 |my_strcompare_string|
 |:----|
 |Write a function which returns *0* if the two given parameters are the same.
@@ -168,6 +215,17 @@ Take 5 min to check everything is going to be ok before pushing.
 |NAME       :   my_return_string_tab
 |PARAMETER  :   string, string
 |RETURN     :   number
+=======
+|my_malloc_string|
+|:----|
+|Write a function which will malloc a string with the given size
+|FOLDER     :   ex_05
+|BINARY NAME:   
+|
+|NAME       :   my_malloc_string
+|PARAMETER  :   number
+|RETURN     :   string
+>>>>>>> e33ecdd04a7f098df295d824e188968718312754
 
 
 
