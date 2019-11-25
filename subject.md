@@ -1,6 +1,6 @@
-#EPITECH EXAM LEVEL 7
+#EPITECH EXAM LEVEL 9
 
-# REPOSITORY_NAME: epitech_machine_7_2019
+# REPOSITORY_NAME: epitech_machine_9_2019
 # RIGHTS read:
   - mackendy-pierre.anselin@epitech.eu
   - edouard.loustau@epitech.eu
@@ -14,7 +14,7 @@
 | - ONLY DOCKER SESSION
 | - PHONE SHUT DOWN ON THE TABLE
 | - DO EXERCISES BY ORDER
-| - ONLY WRITE, MALLOC AND FREE AS SYSTEM FUNCTION ALLOW
+| - ONLY WRITE, OPEN, CLOSE, MALLOC AND FREE AS SYSTEM FUNCTION ALLOW
 | - NO SCRIPT (CREATE MY REPOSITORY NEITHER)
 
 ________________________________________________________________________________________
@@ -68,7 +68,7 @@ Be careful, if you want to get point on this part, you should give the most info
 
 You are allowed to use only internet to fill the form after than you must show down your wifi (no respect == expulsion).
 
-url to access to the form :  https://bit.ly/3335xdF
+url to access to the form :  https://bit.ly/2pRnWNa
 
 __________________________________________________________________________________________________________________________________________________________________________________
 
@@ -86,41 +86,38 @@ Take 5 min to check everything is going to be ok before pushing.
 
 
 
+
 ####Exercise 1)
 
-|my_show_number|
+|my_push_repository|
 |:----|
-|Write a function which displays a number  
+|Write a bash script which push the repository   
 |
 |FOLDER     :   ex_01
-|BINARY NAME:
+|BINARY NAME:   my_push_repository
 |
-|NAME       :   my_show_number
-|PARAMETER  :   number
-|RETURN     :   none
-
+|NAME       :   my_push_repository
+|PARAMETER  :   
+|RETURN     :
 
 
 
 
 ####Exercise 2)
 
-|my_display_number_of_occurrences|
+|my_show_missing_alphanumeric|
 |:----|
-|Write a program which displays the number of occurrences of each character in given arguments.
-|The function will finish with a line break
-|----------------------
-|example : 
-|./ex_02 "toto" "titi"
-|t : 4
-|o : 2
-|i : 2
-|----------------------
+|Write a program when it will find a lowercase letter in the given parameter, will display **"all lowercase letter"** which ain't in the parameter. 
+|It will do the **same with uppercase letter and number**.
+|The function will finish with a line break.
+|Display nothing if there is no alphanumeric character.
+|
 |FOLDER     :   ex_02
 |BINARY NAME:   ex_02
 |
-|NAME       :   my_display_number_of_occurrences
-|RETURN     :   
+|NAME       :   my_show_missing_alphanumeric
+|PARAMETER  :   string
+|RETURN     :   nothing
 
 
 
@@ -128,7 +125,7 @@ Take 5 min to check everything is going to be ok before pushing.
 
 ####Exercise 3)
 
-|my_return_string_tab|
+|my_malloc_array|
 |:----|
 |Write a function which returns a array of string.
 |The size of the array is given as parameter
@@ -144,11 +141,28 @@ Take 5 min to check everything is going to be ok before pushing.
 
 ####Exercise 4)
 
+|my_cat_file|
+|:----|
+|Write a program which displays the contain of the file.
+|
+|FOLDER     :   ex_04
+|BINARY NAME:   ex_04
+|
+|NAME       :   my_cat_file
+|PARAMETER  :   
+|RETURN     : 
+
+
+
+
+
+####Exercise 5)
+
 |my_strcompare_string|
 |:----|
 |Write a function which returns *0* if the two given parameters are the same.
 |returns *-1* in other case.
-|FOLDER     :   ex_04
+|FOLDER     :   ex_05
 |BINARY NAME:   
 |
 |NAME       :   my_return_string_tab
@@ -158,17 +172,7 @@ Take 5 min to check everything is going to be ok before pushing.
 
 
 
-####Exercise 5)
 
-|my_addition_plus|
-|:----|
-|Write a function which addition the given parameters
-|FOLDER     :   ex_05
-|BINARY NAME:   
-|
-|NAME       :   my_addition_plus
-|PARAMETER  :   number, number
-|RETURN     :   number
 
 
 __________________________________________________________________________________________________________________________________________________________________________________
