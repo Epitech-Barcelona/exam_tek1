@@ -68,11 +68,7 @@ Be careful, if you want to get point on this part, you should give the most info
 
 You are allowed to use only internet to fill the form after than you must show down your wifi (no respect == expulsion).
 
-<<<<<<< HEAD
 url to access to the form :  https://bit.ly/2pRnWNa
-=======
-url to access to the form :  https://bit.ly/2CZXt2N
->>>>>>> e33ecdd04a7f098df295d824e188968718312754
 
 __________________________________________________________________________________________________________________________________________________________________________________
 
