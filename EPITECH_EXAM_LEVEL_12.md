@@ -62,18 +62,8 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________
 
+
 ##PART 1
-
-Be careful, if you want to get point on this part, you should give the most information you know for each question.
-
-You are allowed to use only internet to fill the form after than you must show down your wifi (no respect == expulsion).
-
-url to access to the form :  https://urlz.fr/baw5
-
-__________________________________________________________________________________________________________________________________________________________________________________
-
-
-##PART 2
 
 More exercises you will *TRY* more points you can get even if the exercise is not perfect.
 
