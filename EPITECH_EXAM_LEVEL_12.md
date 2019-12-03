@@ -14,7 +14,7 @@
 | - ONLY DOCKER SESSION
 | - PHONE SHUT DOWN ON THE TABLE
 | - DO EXERCISES BY ORDER
-| - ONLY WRITE, OPEN, CLOSE, GETLINE, MALLOC AND FREE AS SYSTEM FUNCTION ALLOW
+| - ONLY WRITE, STAT, OPEN, CLOSE, GETLINE, MALLOC AND FREE AS SYSTEM FUNCTION ALLOW
 | - NO SCRIPT (CREATE MY REPOSITORY NEITHER)
 
 ________________________________________________________________________________________
@@ -97,6 +97,7 @@ Take 5 min to check everything is going to be ok before pushing.
 |:----|
 |Write a function which puts file content in array of string and returns the array
 |Your Allow to use getline system function 
+|Check man stat
 |FOLDER     :   ex_02
 |BINARY NAME:
 |
