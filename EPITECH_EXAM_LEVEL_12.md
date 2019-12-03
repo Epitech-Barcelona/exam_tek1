@@ -95,7 +95,7 @@ Take 5 min to check everything is going to be ok before pushing.
 
 |my_get_file_content|
 |:----|
-|Write a function which puts file content in array and returns the array
+|Write a function which puts file content in array of string and returns the array
 |Your Allow to use getline system function 
 |FOLDER     :   ex_02
 |BINARY NAME:
