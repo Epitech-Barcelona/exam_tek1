@@ -83,7 +83,6 @@ Take 5 min to check everything is going to be ok before pushing.
 |Write a function which displays the content of the file
 |FOLDER     :   ex_01
 |BINARY NAME:   
-|
 |NAME       :   my_display_file_content
 |PARAMETER  :   string
 |RETURN     :
