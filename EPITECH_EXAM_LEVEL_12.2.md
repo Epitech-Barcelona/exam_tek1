@@ -22,7 +22,6 @@ ________________________________________________________________________________
 |**MANDATORY**|
 |:-------------|
 |(_You will get zero if it is not respected_)
-|
 | - Folder for each exercise **(ex: ex_01)**
 | - Folder **include** with **".h"** files for each program  
 | - Folder **src** with **".c"** files, for each program 
@@ -31,7 +30,6 @@ ________________________________________________________________________________
 |**PROHIBITION**|
 |:-----------:|
 |(_You can get zero if it is not respected_)
-|
 | - NO SEGFAULT
 | - No warning (it will be tested with error flags)
 | - No Prototype function in ".c"
@@ -42,7 +40,6 @@ ________________________________________________________________________________
 |**EXPECTED**|
 |:-----------|
 |(_You can lose points or get zero if it is not respected_)
-|
 | - Makefile with **make**, **make re**, **make clean**, **make fclean** for each program 
 | - Main with arguments for each program
 | - Main Return 84 to error 
@@ -51,7 +48,6 @@ ________________________________________________________________________________
 |**BE CAREFUL**|
 |:-----------|
 |(_You can lose points if it is not respected_)
-|
 | - Header (description, title)
 | - Error handing
 | - Read perfectly the subject
@@ -99,7 +95,6 @@ Take 5 min to check everything is going to be ok before pushing.
 |You are not allowed to use hard malloc
 |FOLDER     :   ex_02
 |BINARY NAME:
-|
 |NAME       :   my_get_file_content
 |PARAMETER  :   string
 |RETURN     :   array of string
@@ -114,7 +109,6 @@ Take 5 min to check everything is going to be ok before pushing.
 |:----|
 |Write a program which tells if the map passing as argument is square or rectangle
 |If it is not rectangle or square the program return 84 and ask the user to use the program with rectangular map or square map  
-|
 |----------------------
 |example : 
 |cat map
@@ -123,12 +117,11 @@ Take 5 min to check everything is going to be ok before pushing.
 |X&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;X
 |X&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;X
 |XXXXXXXXXXXXXX
-|
+|<br>
 |./exo3 map
 |The map is rectangular shape of size (length) 14 by (width) 5
-|
+|<br>
 |_______________________________________________________________
-|
 |cat map
 |XXXXXXXXXXXXXX
 |X&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;X
@@ -144,12 +137,11 @@ Take 5 min to check everything is going to be ok before pushing.
 |X&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;X
 |X&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;X
 |XXXXXXXXXXXXXX
-|
+|<br>
 |./exo3 map
 |The map is square shape of size 14 (length)  by 14 (width)
-|
+|<br>
 |_______________________________________________________________
-|
 |cat map
 |X
 |X&emsp;X
@@ -158,12 +150,11 @@ Take 5 min to check everything is going to be ok before pushing.
 |X&emsp;&emsp;&emsp;&emsp;X
 |X&emsp;&emsp;&emsp;&emsp;&emsp;X
 |XXXXXXXXXXX
-|
+|<br>
 |./exo3 map
 |ex04 Error : the map must be a square shape or rectangle shape 
-|
+|<br>
 |----------------------
-|
 |FOLDER     :   ex_03
 |BINARY NAME:   ex_03
 |
@@ -182,7 +173,7 @@ Take 5 min to check everything is going to be ok before pushing.
 |If there are players or un enemies out of the map, it is not good
 |The bosses enemies is the uppercase e
 |The bosses enemies is counted as a enemy
-|
+|<br>
 |----------------------
 |example : 
 |cat map
@@ -191,22 +182,20 @@ Take 5 min to check everything is going to be ok before pushing.
 |X&emsp;&emsp;&emsp;&emsp;&emsp;e&ensp;e&ensp;E X
 |X&emsp;p&emsp;e&emsp;&emsp;&emsp;&emsp;&emsp;X
 |XXXXXXXXXXXXXX
-|
+|<br>
 |./exo4 map
 |The map is rectangular shape of size (length) 14 by (width) 5 with 6 personages ((2 players), (4 enemies (1 Boss)))
 |______________________________________________________
-|
 |cat map
 |XXXXXXXXXXXXXX
 |X&ensp;p&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;X e
 |X&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;E&ensp;X
 |X&emsp;&emsp;p&emsp;&emsp;&emsp;&emsp;E&emsp;X
 |XXXXXXXXXXXXXX
-|
+|<br>
 |./exo4 map
 |the map is not good, there is (1) enemy out of the map
 |_____________________________________________________
-|
 |cat map
 |XXXXXXXXXXXXXX
 |X&ensp;p&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;X&ensp;e
@@ -217,18 +206,16 @@ Take 5 min to check everything is going to be ok before pushing.
 |./exo4 map
 |the map is not good, it is not a square of uppercase x
 |_____________________________________________________
-|
 |cat map
 |XXXXXXXxXXXXXX
 |X&ensp;p&ensp;&ensp;&ensp;&ensp;&ensp;E&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;   X     
 |X&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;E     X
 |X&ensp;&ensp;p&ensp;E&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;X
 |XXXxXxXXXXXXXX
-|
+|<br>
 |./exo4 map
 |the map is not good, it is not a square of uppercase x
 |----------------------
-|
 |FOLDER     :   ex_04
 |BINARY NAME:   ex_04
 |
@@ -260,7 +247,7 @@ Take 5 min to check everything is going to be ok before pushing.
 |X&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;e&ensp;&ensp;&ensp;&ensp;e&ensp;E&ensp;&nbsp;X
 |X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p&emsp;&emsp;e&emsp;&emsp;&emsp;&nbsp;X
 |XXXXXXXXXXXXXX
-|
+|<br>
 |./exo5 map --all-information
 |The map is rectangular shape of size (length) 14 by (width) 5 with 6 personages ((2 players), (4 enemies (1 Boss)))
 |<br>
@@ -269,21 +256,19 @@ Take 5 min to check everything is going to be ok before pushing.
 |p2 (4, 4) 
 |<br>
 |(4) enemies :
-|
 |Boss1 (12, 3)
 |e1   (6, 3)
 |e2   (10, 3)
 |e3   (8, 4)
-|
+|<br>
 |________________________________________________
-|
 |cat map
 |XXXXXXXXXXXXXX
 |X&ensp;p&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;X
 |X&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;e&ensp;&ensp;&ensp;&ensp;e&ensp;E&ensp;&nbsp;X
 |X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p&emsp;&emsp;e&emsp;&emsp;&emsp;&nbsp;X
 |XXXXXXXXXXXXXX
-|
+|<br>
 |./exo5 map --players-information
 |
 |(2) players :
@@ -295,15 +280,14 @@ Take 5 min to check everything is going to be ok before pushing.
 |./exo5 --help
 |How to use : ./exo5 [MAP] [OPTION]..
 |display the information about the map
-|
+|<br>
 |options:
 |&emsp;&emsp;&emsp;&emsp;&emsp;--all-information   display all information about the map  (the size of the map (length, width)) (number of personages and also their positions)
 |&emsp;&emsp;&emsp;&emsp;&emsp;--players-information   display all information about players (player number and position (x, y))
 |&emsp;&emsp;&emsp;&emsp;&emsp;--enemies-information   display all information about enemies (enemies number and position (x, y))
 |&emsp;&emsp;&emsp;&emsp;&emsp;--size-map-information   display all information about the size of the map (length, width)))
-|
+|<br>
 |----------------------
-|
 |FOLDER     :   ex_05
 |BINARY NAME:   ex_05
 |
