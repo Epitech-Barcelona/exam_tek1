@@ -202,7 +202,7 @@ Take 5 min to check everything is going to be ok before pushing.
 |X&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;E&ensp;&ensp;&ensp;&ensp;X
 |X&emsp;&emsp;p&emsp;&emsp;&emsp;&emsp;E&emsp;X
 |XXXXXXXXXXXXXX
-|
+|<br>
 |./exo4 map
 |the map is not good, it is not a square of uppercase x
 |_____________________________________________________
@@ -270,11 +270,9 @@ Take 5 min to check everything is going to be ok before pushing.
 |XXXXXXXXXXXXXX
 |<br>
 |./exo5 map --players-information
-|
 |(2) players :
 |p1 (3, 2) 
 |p2 (4, 4) 
-|
 |<br>
 |______________________________________________
 |./exo5 --help
