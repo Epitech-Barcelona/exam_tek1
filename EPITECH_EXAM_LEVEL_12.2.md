@@ -299,7 +299,6 @@ ________________________________________________________________________________
 |**ADVISE**|
 |:-------------|
 |(_ARE YOU SURE ALL IS PERFECTLY WELL DONE ??_)
-|
 | - Did you test all exercise you did ?
 | - Does your code is clean ?  
 | - Did you give good right?  
