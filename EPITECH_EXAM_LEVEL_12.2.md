@@ -157,7 +157,6 @@ Take 5 min to check everything is going to be ok before pushing.
 |----------------------
 |FOLDER     :   ex_03
 |BINARY NAME:   ex_03
-|
 |NAME       :   my_square_or_rectangle_map
 |PARAMETER  :   
 |RETURN     :  
@@ -290,7 +289,6 @@ Take 5 min to check everything is going to be ok before pushing.
 |NAME       :   my_analyse_map
 |PARAMETER  :   
 |RETURN     :  
-|
 
 
 
