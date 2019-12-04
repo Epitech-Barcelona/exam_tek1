@@ -218,7 +218,6 @@ Take 5 min to check everything is going to be ok before pushing.
 |----------------------
 |FOLDER     :   ex_04
 |BINARY NAME:   ex_04
-|
 |NAME       :   my_analyse_personages_map
 |PARAMETER  :   
 |RETURN     :  
@@ -288,7 +287,6 @@ Take 5 min to check everything is going to be ok before pushing.
 |----------------------
 |FOLDER     :   ex_05
 |BINARY NAME:   ex_05
-|
 |NAME       :   my_analyse_map
 |PARAMETER  :   
 |RETURN     :  
