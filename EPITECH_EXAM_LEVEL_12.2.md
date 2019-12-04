@@ -97,7 +97,7 @@ Take 5 min to check everything is going to be ok before pushing.
 |:----|
 |Write a function which puts file content in array of string and returns the array
 |You are allow to use getline system function
-|You not allowed to you har malloc
+|You are not allowed to use hard malloc
 |FOLDER     :   ex_02
 |BINARY NAME:
 |
